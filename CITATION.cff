@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Ak používate tento repozitár, citujte dizertačnú prácu a tento digitálny artefakt."
+title: "Vplyv trhu práce na študijné programy"
+type: dataset
+authors:
+  - family-names: "Reiter"
+    given-names: "Miroslav"
+year: 2026
+abstract: "Podporný výskumný repozitár k dizertačnej práci Vplyv trhu práce na tvorbu študijných programov vysokých škôl. Obsahuje ArchiMate modely, dokumentáciu a metodické podklady k návrhu riadiacich a motivačných mechanizmov."
+repository-code: "https://github.com/miroslav-reiter/vplyv-trhu-prace-na-studijne-programy"
+license: MIT
